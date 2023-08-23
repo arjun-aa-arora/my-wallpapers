@@ -1,5 +1,50 @@
 [
   {
+    "name": "Royal Blue",
+    "author": "Arjun Arora",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTeb7vEGLg_LAzCuKVBiOYSyVQgXRTWNumPxF0-EMGjklmdNGAgLigMF0Ay4JyPBz6QT0vxs1F0reeJunncjUQ-wKYgdPTxmaXClYVjYgO8017Ft5j0WcWCM_F-v9dxVQ7B5B0sxggKsohzXNO0TEIJAH0cDKZRdnf86CASJokL439uKR3Nota89CE4oj2/s3120/Royal-Blue.jpg",
+    "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlfF6HOJRu5qKbJ9dAsSyVCsidEXtCuMxoJFBhEXIUxj4_lMUCKrddEBu0yteYiWQyukdauSiP1QOvTkonKK5kTKyAKUjzFFZxYMaIc4RFuFIQWpD3tHEIT_MVxmG2MSZ6kBb5Ip7lIevLIY0lfdu-xh6aLHgp3tYqOmim04gBFOiSCXSf7j9q_36SbGNa/s512/Blue512.jpg",
+    "collections": "Golden|Pattern|Blue",
+    "downloadable": true
+  },
+  
+  {
+    "name": "Royal Emerald",
+    "author": "Arjun Arora",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2MO6jlmp88LOBaszm7R1Q1tW8PFROS94diIxEkiTqYxvZUalMbCrW1mOJQ4d3KYV0zkHlqOmnK1XB0Ed9oxfRi0RpVQHN9XE3vkTlvIqDgKGzZd8eDiYbwfyuvN8INlGl_wEF2oVi0oLLNnL5_XoNBZvamMGmKs9YHMjxSlBnV8Sde2gXIiYyYJvL-W7/s3120/Royal-Emerald.jpg",
+    "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg78VEZ2GOD0opA35bCewpo3lZwy_SwnEs9P8djWK-YPsxT8X29XMEit8saj1PSlw0GBKhPC2mfKGfHbYedVZU-gHc8s3NaaLNNYi_1NBFdt6o_3jPBQxt9peFQQsl-Z3BBoV6beTa2XyVVKBdl_K9ILKvG_Ms4ykJgTO6fAiAfuyh720Wlp5s9boFNqtCh/s512/Emerald-512.jpg",
+    "collections": "Golden|Pattern|Emerald",
+    "downloadable": true
+  },
+  
+  {
+    "name": "Royal Gray",
+    "author": "Arjun Arora",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgauWLH6AVoOsWnIfF80M0bdXJf7PheU6u35RaYbyUmDdApR-HcKN3cjHlhe2q6nP_95gRLrk_xH_UzqOhfU9riB0ODeIWw339EFriCcEYPiWKBZ42hmaBau4D2wsCmVHMdwK3S0kPy5p8qWNVH98BorPYU5kpDHTguirESHE2Tsu87Na9d1whsUDLp6sNN/s3120/Royal-Gray.jpg",
+    "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCUgEICBsSpJgI_aAKK_3MehElOpHJuLSSObDdgbaxChkFxCvbKHfcJWUaxDqK2NJDk8v8a3hCA-wkDtCwn3pDxcDy1ZSTtJvKsRloIxGMhK9npLGeSR6aNxWYO-pSORexTVPxVwGBoqFliLvy9LJ_7lG6W2Ho2pMOfZ8Q_TuXTz4FuuxpKU5STAmwXH8c/s512/Gray-512.jpg",
+    "collections": "Golden|Pattern|Gray",
+    "downloadable": true
+  },
+  
+  {
+    "name": "Royal Purple",
+    "author": "Arjun Arora",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo5Z1of1Gd_d3d6Lj15CZHeo8cFcItTXM3zIQAvdPA4F3XcPXS9l_AlPpUJfWkgFPUBGZj2-NWnD4X-eY-VfEtG6gK5Yszvqe36XKADJz0ZiwfchYX9dsbfKuGwv-Lv9YQRUVDzDL0rBUqZN_LmSlf5E3xXbj2K7MEtu0yf__KZnYBvbOkf2wHjj7qhb0C/s3120/Royal-Purple.jpg",
+    "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhACUU2URoe5c4mzPQkigCe5mDmBT1VOgiH1HiWG-8l7u2wFTs358IB8Fd4qG2I4XdImTWFUhloy6XRSGzOPQg0mNPBWKKEMtZ1rs4guipzKczes_c2lsZ_aB4G0cBS9X3XYYqGOizgIg7Bp12vvGyh_WupnYgSd5M2EU_7Ak7YWix68KKPJdeEl-N_px7s/s512/Purple-512.jpg",
+    "collections": "Golden|Pattern|Purple",
+    "downloadable": true
+  },
+  
+  {
+    "name": "Royal Red",
+    "author": "Arjun Arora",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUCCSRvxW-44eYzyFUit45xW0fmbuPLJumFd5iM6_yIQEbY8XC4DtQjAcWMGkRwTukxFlxLi9VUL2UCo_3cjDBsR0hwP47j55j0ZdzurXSGrTSSI-gXtRxMI0JX50xjgDlrObrcF1OcGCVH1XNVZsYuuBvMOKUKCoF7L_c5XZs2JHRbL6YnQ32-7839WQT/s3120/Royal-Red.jpg",
+    "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN7d9JrU9NcEavBjo3rz52cFaHMU5OraicglfigXgPQ35yYx_bzpQzv7UpTwEHU4bbAP_QzXEYiS2FX_0N2rUq97NGVOpJGAwQGLa39S03E7GBJpfYbn48pepe6YDGUpOmKRXuIcFUxyW5ofBiPtZx9WGcOxosOpflrgubJQsx-TCJUOMlW0zljmTqRlQB/s512/Red-512.jpg",
+    "collections": "Golden|Pattern|Red",
+    "downloadable": true
+  },
+  
+  {
     "name": "Dark Neon City",
     "author": "Arjun Arora",
     "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHNEvQAOzkOw2KWcp9KiQpO8Rpo2oq18RpVUPN96-6JM9repxferKFDpkXPgUngFKu9hutYJ1AAawbosW5GOhklmnz5SvsgJXmgw_UXR6f1_BB_7unM1onacgRWbQT1KMPjU8e9g0uex_f3s4iGjUpaVjzjARpJFnGj-GliTAKvYEV7fOUxhuqFg_omLV6/s2400/Dark%20Neon%20City.png",
