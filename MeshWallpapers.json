@@ -1,5 +1,53 @@
 [
   {
+    "name": "Corroded Bronze",
+    "author": "Arjun Arora",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHCUFiAWqe6s_sSEBfQ7AujoS-7LQ4gBqrkV5yckUdDiITuKGX7UHrZt6rQbxTqlfh-FYKlOc9TeQHQBNCWtFUbl3tBJtMA6eqfBYI7pna7tCv-k_61EuDxaElzxPF9eiMKV3aIebaPnQf6Jm4IZTEWZ6vHJMhAVyD6hkwpGX_2i9cqMw1ptmlgBlY2N-T/s2400/Corroded%20Bronze.jpg",
+    "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdO2hhk32ZQKNwMkSdTeNQ2hyqhVR5xg66YiqGPXwIsyXjLzREnUR5kMx9OVKTndMBmY1SDYZpbVCrYl5MBmDE-3sISs58al9GSlUgP0Y3DbA3cPomkIoJu7Bm6W9ODgjYurIxEu8OexE8qIlzrBiMvfcNkfzK6pop6K6ROjfb4Ij_ygKKB0vQmqjl-18F/s512/Corroded%20Bronze-512.jpg",
+    "collections": "Bronze|Dark|Metal",
+    "downloadable": true
+  },
+  {
+    "name": "Classic Blue",
+    "author": "Arjun Arora",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt_TnjGQFtX9ZbyaGJIIqDVyTosTk40cUnlBim3S5JduTgh_rperQxUchM-e4Fmc8LdMR7ukmvsvpI0CIaCeLbQW7aVvsZL3ravlVbgm2PBmL5mdTzMTYOZT5ERVacwKIz6Tne-_2EbiNj4Gj8wXNGQTWH8f59oLE0YA0-xYiFIFaMfk5L-x5wr-uYPVrk/s2400/Classic%20Blue.jpg",
+    "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_u8uk7pHJMyS7GDNnb6Kct07zQFpSEuf_JlRPcvFBRR-pWE60pK4B5ItlMv9oPdLMxp-oNAYJQf_Y6gzhAXM_VfP8WBjoV-Gs0-oEmuYTjHVjtT10MqlJqwVv4iv0px7gqSNcmWtKg4Nmj3ofV2bIiUwJ-3M9QGOybYPgJkSKHt5LEHk2Mvb0A9IJmKRl/s512/Classic-Blue-512.jpg",
+    "collections": "Blue|Dark|Stripes",
+    "downloadable": true
+  },
+  {
+    "name": "Classic Emerald",
+    "author": "Arjun Arora",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmk5hcIq0KgKRNWUtUqz5s0ukC3_eZ6QQ1egQL0U-JmjpfthWsqV1GlCBmzDyFwLrpwaxRxSm_36Jmn3dq32fUHqSFp8Evn0jQmlV3AL4LMfCdPcGk4WbRyjqRZUeCts6EwpMPjxWXEnK__fC1zbGMYSzhgb6cDZ5sUUslFFgvUDO-KJRQcwFtE4oYSnWV/s2400/Classic%20Emerald.jpg",
+    "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKzujdVBP5RzMMhyphenhyphen-XSiNbkvniIrzxPBO4XQR6O6tqPvoTyhARCyHtQ9iujp3odm20bhA4WWcKdWMh7tGMzNgDlDvkS40txWX4w_8Jl7VxDs1uuOc1v6JEFMbSmEQ3-QuOKXcYUCaaXYSiu51Bek4Og5WEazDXtmrI_zoN-pngpXJZjHEZcnqlS97hMFS2/s512/Classic-Emerald-512.jpg",
+    "collections": "Emerald|Dark|Stripes",
+    "downloadable": true
+  },
+  {
+    "name": "Classic Gray",
+    "author": "Arjun Arora",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGAi3iIbQEf_jKcGNwh8Y1MD0MrskaZJu8sTydIK6MIahWUostlEN7HtpoKs6uK2ELgB3H-x_XrHV4hARM7mqeulCoeOSPVo2u1t87lq76Bg5JwM64Vq3q1XPyAn4xTYMmDZrjpT0nU0q6jRXgN3NtsAW2j6Hpg-ybnxE3M7ro-Kwo14JBMN4ihKWEPgzB/s2400/Classic%20Gray.jpg",
+    "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvQ_qrdXb6DBb0XYZWPlWfvi0rx6eI4gCE1733k4X6VIkP-g1BxxWRVe2V0qVlpzwRyHXpF1GdgDzRMr9kNIyiSafcvH9eC5DFt2uaYThAB7KjDlHD7-_7AzcOIVfreOTV_E4dJrpTjc9lOqvT_lk6IQc2UszNhPg_3vrNoyKto0-kxayudB3toJF_DQvs/s512/Classic-Gray-512.jpg",
+    "collections": "Gray|Dark|Stripes",
+    "downloadable": true
+  },
+  {
+    "name": "Classic Purple",
+    "author": "Arjun Arora",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHZo-Bm758XgtDKTHuHXS4mX31Et_sFoKEXSUldSdKYuYXWu07KQl5I1kw3HyMEdUpXMqpZx9i3YztgEQeQupFKYqB94fNRNSU2LZCTMJAjkAjptLGiCtlc64fZnWLNyPGgEUs02xbv9AX5ci33a8KsTZ9qTJ89f1Ag4vQbeKJDWp1GUx4RbHqUN2s_JoS/s2400/Classic%20Purple.jpg",
+    "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggM5iSt8jVbKs1jncH7ZI1xTHRo-fPiFMkjz5OeH-cUxpBtD2p-Kjs7Q0L-72C0D-_Bn_C4n4o123yGQHhk_Q2tg7btSaV7Z_Zqt_Lo4q9JIG6LKStsznxXY4cl0cIAxmhaQDksmPehGcNkt0uBDzReF_A4man_kd25OpI_2DQYCdg_lHatn7Y63piyVBy/s512/Classic-Purple-512.jpg",
+    "collections": "Purple|Dark|Stripes",
+    "downloadable": true
+  },
+  {
+    "name": "Classic Red",
+    "author": "Arjun Arora",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAlnI3ns_pd1GUHye8Y8ArqJaGN84s8_AKVQU448Ma4KSCS6tfJhr3fOjew9NKwXIBXZxDde6u4jb5ZANBSsdto-IU7Wdfng2GaV-5R-aFujIwKGNqtDaHR_UwvazjfaKA6KE69-v2EHdB2sTR_E-65rIdkN7108bUD3EB8SXzSGMIsgnkob3iRMH_QtjB/s2400/Classic%20Red.jpg",
+    "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcDoiAkNjKcu4Dp7bdpY5opezfx5XY_M1Q-CavppVDbDW7-2318VuCjCDTUatiwcCTgpXLmwwXQFU7v6UGOkP6WoNDvQSme92xhe0CAIAuKrgdPcbgWpuSQ9oLqzSGFhHk4Cg5e57Y2dgFdTEuU5wy_i8zalUkxfowXwXQIABi5RNfszUCLjp9VQ4GDDhj/s512/Classic-Red-512.jpg",
+    "collections": "Red|Dark|Stripes",
+    "downloadable": true
+  },
+  {
     "name": "Liquid Black",
     "author": "Arjun Arora",
     "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb3adA-Pf2XJXp8-Ms61TFJNZPowmf_bOX9XKTFrY49kcqsuF7aneL-8fPhc7h0-3vGzybaTdz3qhopn38EO3ZeRZrsySf4w6IWZ6XkY-qRMYdHlmzL7j1rWUgtAWSvLT79OuUWxAxfKl5JlZfzVp3HZtNmBEUdF0t-Ah9WOwEdW1k_FjMLSOQExEsudhQ/s2400/LiquidBlack.png",
